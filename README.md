@@ -42,6 +42,9 @@ Notes:
 ## Code overview
 - big quiz/quiz.py — the entire game (Pygame Zero). The script defines the layout, questions, timer, mouse handling, and simple scoring.
 
+## History
+- Initial commit: [ffa75f54](https://github.com/pg-141-mc/big-quiz/commit/ffa75f54aa03af8a52ee36d4693196cf5f998352) — "Initial commit" by Prayaag Ghimire on 2026-09-02.
+
 ## Contributing
 Small fixes and question additions are welcome. If you add many questions or change the format, please open a pull request describing your changes.
 
